@@ -1,63 +1,17 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">I'm Luciano Revillod, fullstack developer from Chile</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">📚 I'm currently learning and improving my knowledges on rust programming language<br>🎯 Goals: Solve real problems with high performance solutions</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+<div style="padding: 20px;">
+    <div style="display: flex; flex-direction: column; align-items: flex-start;">
+        <div style="margin-bottom: 20px;">
+            <samp>hi! i'm luciano revillod, fullstack developer from chile</samp><br>
+            <samp>i'm studiying computer engineering at universidad católica</samp><br>
+            <samp>📚 currently learning and improving my knowledges on rust programming language</samp><br>
+            <samp>🎯 goals: solve real problems with high performance solutions</samp>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: start; justify-content: flex-start;">
+            <img src="https://img.shields.io/static/v1?label=&message=linux&color=161616&style=for-the-badge&logo=linux&logocolor=FCC624" alt="linux" />
+            <img src="https://img.shields.io/static/v1?label=&message=typescript&color=161616&style=for-the-badge&logo=typescript&logocolor=3178C6" alt="typescript" />
+            <img src="https://img.shields.io/static/v1?label=&message=rust&color=161616&style=for-the-badge&logo=rust&logocolor=CE422B" alt="rust" />
+            <img src="https://img.shields.io/static/v1?label=&message=node.js&color=161616&style=for-the-badge&logo=node.js&logocolor=339933" alt="nodejs" />
+            <img src="https://img.shields.io/static/v1?label=&message=react&color=161616&style=for-the-badge&logo=react&logocolor=61DAFB" alt="react" />
+        </div>
+    </div>
 </div>
-
-###
-
-<h2 align="left">And also use these technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-</div>
-
-###
