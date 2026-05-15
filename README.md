@@ -2,9 +2,9 @@
   <tr>
     <td>
       <samp style="font-size: 18px; line-height: 1.6; margin-bottom: 10px;">
-        👋 hi! i'm luciano revillod, a software architecture enthusiast from chile
-        🏫 computer engineering student at universidad católica
-        📚 currently learning rust and improving my software engineering skills
+        👋 hi! i'm luciano revillod, a software architecture enthusiast from chile<br>
+        🏫 computer engineering student at universidad católica<br>
+        📚 currently learning rust and improving my software engineering skills<br>  
         🎯 building high-performance solutions to solve real-world problems
       </samp>
     </td>
